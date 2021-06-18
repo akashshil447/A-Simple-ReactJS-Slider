@@ -1,5 +1,3 @@
-# react-projects-7-slider
+A slideshow demo 
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+Live Preview : https://slider-demo-app-by-kash.netlify.app/
